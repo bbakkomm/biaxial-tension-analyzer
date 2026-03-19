@@ -1,4 +1,5 @@
 # 📈 고무벨트 인장시험 데이터 분석기 (Biaxial Tension Analyzer)
+<img width="1132" height="1033" alt="Image" src="https://github.com/user-attachments/assets/5f63e3f3-9195-4778-942a-fdd00c2bbbe2" />
 
 고무벨트의 Biaxial Strain(이축 인장) 데이터를 불러와 자동으로 사이클(Cycle)을 분석하고, 사용자가 원하는 구간의 데이터를 추출하여 시각화 및 엑셀 파일로 일괄 변환해 주는 윈도우 데스크탑 GUI 애플리케이션입니다.
 
